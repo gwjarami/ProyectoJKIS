@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JKIS</string>
+
+    <string name="ingresar">Ingresar</string>
+
+    <string name="boton_consultar">Consultar</string>
+    <string name="titulo_escuchado">escuchado</string>
+    <string name="texto_escuchado">escuchado</string>
+    <string name="titulo_respuesta">respuesta</string>
+    <string name="texto_respuesta">respuesta</string>
+</resources>
